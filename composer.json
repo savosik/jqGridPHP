@@ -3,10 +3,6 @@
     "description": "Free library for creation server-side part of jquery grid library from http://www.guriddo.net/demo/demos/jqgrid/",
     "version": "7.2.0",
     "license": "Apache-2.0",
-    "require": {
-        "php": "^7.0",
-        "another-vendor/package": "1.*"
-    },
     "autoload": {
           "classmap": [
               "php/jqGridLoader.php"
