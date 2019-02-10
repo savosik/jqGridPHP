@@ -1,6 +1,7 @@
 {
     "name": "savosik/jq-grid-php",
     "description": "Free library for creation server-side part of jquery grid library from http://www.guriddo.net/demo/demos/jqgrid/",
+    "version": "1.0",
     "require": {
         "php": "^5.6",
         "another-vendor/package": "1.*"
